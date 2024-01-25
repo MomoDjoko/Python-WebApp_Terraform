@@ -26,7 +26,7 @@ For this typical infrastructure, the terraform file include :
 * Auto Scaling Group (EC2 instances)
 * AWS CloudWatch
 * AWS SNS
-* # Deployment steps
+ # Deployment steps
 
 * Enable the IAM access using the AWS access and secret key, to have the priviledge accces to deploy resoucres on AWS.
 * change directory to the parent directory of the repositiroy
